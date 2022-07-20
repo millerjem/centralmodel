@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  centralmodel:
+  - apiVersion: v2
+    appVersion: 7.9.1
+    created: "2022-07-20T14:46:25.758568-04:00"
+    description: A Helm chart for Kubernetes
+    digest: dbe2707dc4b74a948c2bcb0abe3e3b93c1a1149bbad1ecfc5d2294b32ef4aa78
+    name: centralmodel
+    type: application
+    urls:
+    - centralmodel-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-07-20T14:46:25.75734-04:00"
